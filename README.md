@@ -1,3 +1,3 @@
 ## Feed Widget
 
-    Desenvolvido no NLw da Rocketseat
+    Desenvolvido no NLW da Rocketseat
